@@ -970,6 +970,7 @@ export const FooterSection = styled.footer`
       .btm {
         border-top: 0.5px solid #fff;
         align-items: start;
+        padding: 0;
 
         p {
           font-size: 0.8rem;
