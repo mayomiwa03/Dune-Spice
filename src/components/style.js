@@ -346,10 +346,10 @@ export const ProductSection = styled.div`
         }
       }
       .headR {
-        gap: 0.5rem;
+        gap: 0.2rem;
 
         button {
-          font-size: 12px;
+          font-size: 11px;
         }
       }
     }
