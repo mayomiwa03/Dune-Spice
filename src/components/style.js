@@ -238,6 +238,9 @@ export const AboutSection = styled.div`
       img {
         width: 100%;
       }
+      span {
+        display: none;
+      }
     }
     .textSide {
       padding: 1rem;
